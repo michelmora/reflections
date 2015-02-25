@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+Now I already make some changes, add to the staging area, and commit it, but first I had to make git config --global user.email "michelmora@gmail.com"
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
